@@ -389,3 +389,8 @@ button {
 .sn p {
     text-align: center;
 }
+
+.ft-nn{
+    width: 500px;
+    border-radius: 40px;
+}
